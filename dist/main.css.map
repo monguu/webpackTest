@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpacktest/./base.css"],"names":[],"mappings":"CAAC;KACI,uBAAuB;KACvB,kBAAkB;CACtB,C","file":"main.css","sourcesContent":[" div {\r\n     color: rgb(228, 19, 19);\r\n     text-align: center;\r\n }"],"sourceRoot":""}
